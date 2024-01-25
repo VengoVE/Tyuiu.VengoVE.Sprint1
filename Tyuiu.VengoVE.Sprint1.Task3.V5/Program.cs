@@ -16,7 +16,7 @@ namespace Tyuiu.VengoVE.Sprint1.Task3.V5
             Console.Title = "Спринт #1 | Выполнил: Вэнго В. Э. | ИСПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
+            Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
             Console.WriteLine("* Выполнил: Вэнго В. Э. | ИСПб-23-1                                       *");
